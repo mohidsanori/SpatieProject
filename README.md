@@ -1,4 +1,5 @@
 ![SpatieProjectDemoPic (1)](https://user-images.githubusercontent.com/91912845/179975733-17c97956-afbe-441c-bf71-6de261d66f62.png)
+![SpatieProjectDemoPic (2)](https://user-images.githubusercontent.com/91912845/179976010-6d04731b-bdd1-4ac0-bdac-8fc6f3734514.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
